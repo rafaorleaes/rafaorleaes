@@ -17,21 +17,25 @@
 
 QA Engineer focado em **automação de testes** e em transformar ambientes manuais em pipelines de qualidade contínua. Meu trabalho é tornar o risco visível antes da entrega — estruturando um estágio de qualidade dentro do CI/CD e reduzindo o tempo de regressão.
 
-- 🎯 **Foco:** automação E2E com **Playwright**, validação de APIs **REST/GraphQL** e **quality gates** em CI/CD
+- 🎯 **Foco:** automação E2E **web** (Playwright) e **mobile** (Maestro), validação de APIs **REST/GraphQL** e **quality gates** em CI/CD
 - 🧠 **Como penso QA:** entender a regra de negócio primeiro; teste é consequência do risco, não da tela
 - 🤖 **Dois eixos com IA:** uso IA para *acelerar* o QA **e** testo *sistemas de IA* — não-determinismo, alucinação, prompt injection, LLM-as-judge, regressão de prompt
 - 🛠️ **Construindo:** agentes de QA em **Claude Code** para geração, execução e predição de risco de testes
-- 💬 **Pergunte-me sobre:** `Playwright` · `Cypress` · `Quality Gates em CI/CD` · `Teste de sistemas com IA`
+- 💬 **Pergunte-me sobre:** `Playwright` · `Maestro` · `Cypress` · `Quality Gates em CI/CD` · `Teste de sistemas com IA`
 - 🌎 **Localização:** Santa Catarina, Brasil
 
 ---
 
 ## 🛠️ Stack
 
-**Automação E2E**
+**Automação E2E — Web**
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+
+**Automação E2E — Mobile**
+
+![Maestro](https://img.shields.io/badge/Maestro-6E56CF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN3YxMGwxMCA1IDEwLTVWN0wxMiAyem0wIDIuM2w2LjggMy40TDEyIDExLjEgNS4yIDcuN0wxMiA0LjN6Ii8+PC9zdmc+&logoColor=white)
 
 **APIs & Performance**
 
