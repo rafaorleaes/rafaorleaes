@@ -61,6 +61,7 @@ QA Engineer focado em **automação de testes** e em transformar ambientes manua
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
 
@@ -82,18 +83,6 @@ Sistemas com LLM falham de formas que o QA tradicional não cobre: não-determin
 |---|---|---|
 | [playwright-test](https://github.com/rafaorleaes/playright-test) | Automação E2E com Playwright integrado a MCP | `Playwright` `TypeScript` `MCP` |
 | [cypress-project-ai](https://github.com/rafaorleaes/cypress-project-ai) | Suíte E2E com 10 specs (login, cadastro, checkout, segurança) e custom commands | `Cypress` `JavaScript` |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaorleaes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090f&title_color=a78bfa&icon_color=10b981&text_color=71717a)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaorleaes&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090f&title_color=a78bfa&text_color=71717a)
-
-</div>
 
 ---
 
