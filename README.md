@@ -55,10 +55,6 @@ QA Engineer focado em **automação de testes** e em transformar processos manua
 
 ---
 
-## 🚧 Em construção
-
-Frentes que estou desenvolvendo e estudando. Marcadas como **em progresso** — repositórios públicos a caminho, não entregas prontas.
-
 - **Automação mobile com Maestro** — primeiros flows de smoke em apps React Native
 - **QA de sistemas com IA** — teste de aplicações com LLM: prompt injection, LLM-as-judge, regressão de prompt
 - **Agentes de QA em Claude Code** — geração e execução de testes assistidas por IA
